@@ -1,0 +1,9 @@
+{
+  "staging_dir": "/home/ubuntu/ai-governance-aggregator/staging",
+  "obsidian_vault_path": "/home/ubuntu/ai-governance-aggregator/obsidian-integration",
+  "digital_garden_path": "/home/ubuntu/ai-governance-aggregator/digital-garden",
+  "github_pages_repo": "https://github.com/hxfxrx/AI-Governance-aggregator",
+  "auto_approve": false,
+  "auto_publish": true,
+  "run_interval": 3600
+}
